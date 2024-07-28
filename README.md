@@ -1,5 +1,6 @@
 # Hello world 👋
 
+![self portrait](https://github.com/haku19602/haku19602/blob/main/self_portrait.jpg?raw=true)
 
 ## About me ✨
 - 📍 Taipei -> Hsinchu, Taiwan
