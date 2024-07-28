@@ -9,18 +9,18 @@
 - 🤍 Guzheng🎵 / wood craft🪚 / beetles🪲
 
 ## 👩🏻‍💻 Technology
-### Front-End 📌
+### 📌 Front-End
 - html, css, javascript
 - bootstrap, vuetify, pug, sass
 - jquery, vue.js
 
-### Back-End 📌
+### 📌 Back-End
 - node.js
 
-### Database 📌
+### 📌 Database
 - mongoDB
 
-### Design 📌
+### 📌 Design
 - illustrator
 - photoshop
 - figma
