@@ -10,7 +10,7 @@
 
 ---
 
-## Technology 👩🏼‍💻
+## Technology 👩🏻‍💻
 ### 📌 Front-End
 - html, css, javascript
 - bootstrap, vuetify, pug, sass
