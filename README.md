@@ -1,6 +1,6 @@
 # Hello world 👋
 
-## ✨ About me
+# ✨ About me
 - 📍 Taipei -> Hsinchu, Taiwan
 - 🏫 B.F.A. in Fine art & Design
 - 💼 interior designer -> front-end engineer
