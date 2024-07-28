@@ -1,5 +1,4 @@
 # Hello world 👋
-***
 
 ## ✨ About me
 - 📍 Taipei -> Hsinchu, Taiwan
