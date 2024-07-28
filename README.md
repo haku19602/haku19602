@@ -10,9 +10,7 @@
 
 ## 👩🏻‍💻 Technology
 ### 📌 Front-End
-- html, css, javascript
-- bootstrap, vuetify, pug, sass
-- jquery, vue.js
+- html, css, javascript, bootstrap, vuetify, pug, sass, jquery, vue.js
 
 ### 📌 Back-End
 - node.js
@@ -21,9 +19,7 @@
 - mongoDB
 
 ### 📌 Design
-- illustrator
-- photoshop
-- figma
+- illustrator, photoshop, figma
 
 <!--
 **haku19602/haku19602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
