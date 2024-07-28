@@ -8,6 +8,8 @@
 - 💼 interior designer -> front-end engineer
 - 🤍 Guzheng🎵 / wood craft🪚 / beetles🪲
 
+---
+
 ## Technology 👩🏼‍💻
 ### Front-End
 - html, css, javascript
