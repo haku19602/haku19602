@@ -1,4 +1,4 @@
-# Hello world 👋
+=== Hello world 👋
 
 ![self portrait](https://github.com/haku19602/haku19602/blob/main/self_portrait.png?raw=true)
 
@@ -7,8 +7,6 @@
 - 🏫 B.F.A. in Fine art & Design
 - 💼 interior designer -> front-end engineer
 - 🤍 Guzheng🎵 / wood craft🪚 / beetles🪲
-
-&nbsp
 
 ## Technology 👩🏻‍💻
 ### 📌 Front-End
