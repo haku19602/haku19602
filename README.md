@@ -10,7 +10,7 @@
 
 # 👩🏻‍💻 Technology
 ### 📌 Front-End
-- html, css, javascript, bootstrap, vuetify, pug, sass, jquery, vue.js
+- html, css, javascript, jquery, bootstrap, vuetify, pug, sass, vue.js
 
 ### 📌 Back-End
 - node.js
